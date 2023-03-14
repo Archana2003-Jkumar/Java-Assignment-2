@@ -39,4 +39,4 @@ class Main{
 
 ```
 ### Output:
-![Github](./pat3)
+C:\Users\PRIYA\Documents\Sem4\Pattern assignment\pat3.png
